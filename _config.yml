@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Vocalin
+description: Documentation for Vocalin
 theme: just-the-docs
-
 url: https://vocalin.github.io
 
-aux_links:
-  Template Repository:  https://github.com/vocalin/vocalin.github.io
+nav_order: 1
+nav:
+  - title: "Home"
+    url: /
+  - title: "Speech Synthesis Markup Language"
+    url: /ssml
